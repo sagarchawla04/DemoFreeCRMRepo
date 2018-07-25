@@ -49,6 +49,7 @@ public class ContactsPage extends TestBase {
 		lastname.sendKeys(lname);
 		company.sendKeys(companyname);
 		saveButton.click();
+		System.out.println("dsfdsfds");
 	}
 		
 	
